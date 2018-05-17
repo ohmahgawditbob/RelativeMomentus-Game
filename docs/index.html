@@ -1,18 +1,40 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Placeholder</title>
+    <title>Relative Momentus</title>
     <style>
-		body{
-			  background: linear-gradient(black, #00AFFF);
-      
+        body{
+            margin:0px;
+            background-color:black;
+        }
+		.body_top{
+			background-image:url(http://www.picgifs.com/wallpapers/wallpapers/moving/10.gif);
+            height:100%;
+            margin:0px;
+	    }
+	    .body_bottom{
+	        background: linear-gradient(rgba(255, 0, 0, 0), #00AFFF);
+	        height:50%;
+	    }
+	    .bg{
+	        background-image:url(http://www.picgifs.com/wallpapers/wallpapers/moving/10.gif);
 	    }
         .head{
+            padding-left:25px;
             color:#FF8;
+            background: linear-gradient(to right, #AA5, #AA5,  black, black, black);
+            margin:0px;
+        }
+        .foot{
+            background: linear-gradient(#008DDD, #0D0, #0D0);
+            height:10%;
         }
 	  </style>
   </head>
   <body>
-	  
 	  <div class="head"><h1>Relative Momentus</h1></div>
+	  <div class="body_top"></div>
+	  <div class="bg"><div class="body_bottom"></div></div>
+	  <div class="foot">A</div>
   </body>
 </html>
