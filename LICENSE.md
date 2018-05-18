@@ -6,6 +6,6 @@ Just dont steal this, break copyright law and stuff. You're a github user, you p
 The relative momentus group may not even work on that... hm, oh well. Nobody reads the license.md anyways. But yeah, just don't steal it and stuff and you wont get sued and stuff.
 
 # Abstract
-  Oh wait, the abstract is supposed to be first. I suppose it's such a short license that it'll be visible anyways. But just don't steal it. You can help me with it through Github if you are even accessing the repository.
+  Oh wait, the abstract is supposed to be first. I suppose it's such a short license that it'll be visible anyways. But just don't steal it. You can help me with it through Github if you are accessing the repository. And also don't steal this license please, I worked very hard on it, just like I have worked hard on my game. Just don't steal either of them, and you'll be fine.
   
 ### ©2018 Relative Momentus Group, or possibly it needs to be ©2018 ohmahgawditbob
